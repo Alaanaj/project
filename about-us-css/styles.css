@@ -1,8 +1,15 @@
 h1 {
   text-align: center;
+  font-size: 30px;
+  font-style: oblique;
+  letter-spacing: 5px;
+  margin: 20px;
+  text-transform: capitalize;
+  color: #f7cded;
+  font-weight: 500;
 }
 body {
-  background: #ffffff;
+  background: ##f7cded;
   color: #898989;
   font-family: 'Poppins', helvetica;
   font-size: 15px;
