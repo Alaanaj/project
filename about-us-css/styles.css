@@ -10,7 +10,10 @@ h1 {
 }
 
 .header-content h2 {
-  font-size: 40px;
+  font-size: 30px;
+  text-align: center
+  font-style: oblique;
+  letter-spacing: 5px;
   font-weight: 700;
   margin-bottom: 10px;
   text-transform: uppercase;
