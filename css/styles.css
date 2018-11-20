@@ -1,6 +1,9 @@
 h1 {
   text-align: center;
 }
+h2 {
+  text-align: center;
+}
 
 body {
   background: #ffffff;
@@ -233,8 +236,8 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #header {
-  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXJS8rSzbsmVhtjgWswjCnaCYlskkpreBItn-cSIcvR_g19sVYCA") repeat scroll center center / cover;
-  height: 100vh;
+  background: url("https://www.visityork.org/dbimgs/DSC_8753(1).jpg") repeat scroll center center / cover;
+  height: 70vh;
   width: 100%;
 }
 
@@ -257,12 +260,12 @@ nav ul li a {
 }
 
 .header-content p {
-  font-size: 20px;
+  font-size: 30px;
+  font-style: oblique;
   letter-spacing: 5px;
-  margin-top: 0;
-  margin-bottom: 30px;
+  margin: 20px;
   text-transform: capitalize;
-  color: #fff;
+  color: #f7cded;
   font-weight: 500;
 }
 
