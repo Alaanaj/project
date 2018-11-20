@@ -8,6 +8,14 @@ h1 {
   color: #f7cded;
   font-weight: 500;
 }
+
+.header-content h2 {
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  color: #fff;
+
 body {
   background: ##f7cded;
   color: #898989;
