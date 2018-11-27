@@ -8,19 +8,8 @@ h1 {
   color: #f7cded;
   font-weight: 500;
 }
-
-.header-content h2 {
-  font-size: 30px;
-  text-align: center
-  font-style: oblique;
-  letter-spacing: 5px;
-  font-weight: 700;
-  margin-bottom: 10px;
-  text-transform: uppercase;
-  color: #fff;
-
 body {
-  background: ##f7cded;
+  background: white;
   color: #898989;
   font-family: 'Poppins', helvetica;
   font-size: 15px;
@@ -35,4 +24,23 @@ body {
   -o-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
+}
+
+h2 {
+  text-align: center;
+  font-style: oblique;
+  font-size: 20px;
+}
+
+table, td {
+  text-align: center;
+  margin: 20px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.names {
+  font-weight: bold;
 }
