@@ -9,12 +9,8 @@ h1 {
   font-weight: 500;
 }
 
-#header {
-  background: url("https://ichef.bbci.co.uk/news/660/media/images/81502000/jpg/_81502928_yorkminster2.jpg") repeat scroll center center / cover;
-  height: 70vh;
-  width: 100%;
-  opacity: 0.9;
-}
+
+
 
 .header-content h2 {
   font-size: 30px;
