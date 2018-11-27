@@ -19,7 +19,7 @@ h2 {
   letter-spacing: 5px;
   font-weight: 700;
   margin-bottom: 10px;
-  text-transform: uppercase;
+  text-transform: lowercase;
   color: #fff;
 
 body {
